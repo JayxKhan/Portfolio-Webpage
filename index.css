@@ -40,7 +40,6 @@ header,  main, div, footer,article,nav {
   ul{
       text-align: center;
       color: black;
-      margin-left: 5%;
   }
   /* formatted my links to be more visable*/
   ol{
