@@ -68,7 +68,7 @@ header,  main, div, footer,article,nav {
   }
   /* made most of my text the same size,font and color as well as center all of the text*/
   h1, h2, h3, p{
-      color: black;
+      color: white;
       text-align: center;
       font-family: 'Alegreya', 'Arial Narrow', Arial, sans-serif; 
   }
