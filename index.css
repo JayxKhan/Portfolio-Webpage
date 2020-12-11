@@ -3,7 +3,7 @@ header,  main, div, footer,article,nav {
     border: 3px solid rgb(151, 136, 51);
   }
   header{
-      background-color: gray;
+      background-color: black;
   }
   a:link {
       color:black;
@@ -43,7 +43,7 @@ header,  main, div, footer,article,nav {
   }
   /* formatted my links to be more visable*/
   ol{
-   text-align: left;
+   text-align: center;
    font-size: 125%;
   }
   
