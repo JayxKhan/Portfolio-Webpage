@@ -55,16 +55,16 @@ header,  main, div, footer,article,nav {
   /*footer was smaller then the rest of my text. wanted to have a different font size so it was readable and put in center of page*/
   footer {
       text-align:center;
-      background-color: gray;
+      background-color: black;
       padding-bottom: 4px;
-      font-family: 'Times New Roman', Times, serif;
-      font-size: 15px;
+      font-family: Alegreya, Times, serif;
+      font-size: 20px;
   }
   h5{
       padding-top: 20px;
       color: white;
       text-align: center;
-      font-family: 'Times New Roman', Times, serif;
+      font-family: Alegreya, Times, serif;
   }
   /* made most of my text the same size,font and color as well as center all of the text*/
   h1, h2, h3, p{
