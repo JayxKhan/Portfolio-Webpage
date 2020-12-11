@@ -30,10 +30,10 @@ header,  main, div, footer,article,nav {
   }
   /* formatted img to not be on the farthest left side*/
   img{
-      margin-top: 10px;
-      padding: 35px;
+      margin-top: 15px;
+      padding: 20px;
       text-align: center;
-      margin-bottom: 50px;
+      margin-bottom: 55px;
       
   }
   /* made my unordered list margined and aligned to the left since my paragrah within my about me was centered*/ 
