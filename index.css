@@ -1,0 +1,76 @@
+/* added border around my containers for organization*/
+header,  main, div, footer,article,nav {
+    border: 5px solid black;
+  }
+  header{
+      background-color: gray;
+  }
+  a:link {
+      color:white;
+  }
+  a:visited{
+      color:pink;
+  }
+  a:hover{
+      color:green;
+  }
+  a:active{
+      color: purple
+  }
+  /* for my links i wanted them to be on the side of my photo so i used margin and height*/
+  nav{
+      text-align: center;
+      width: 150px;
+      margin-left: 500px;
+      color: white;
+      margin-top: -250px;
+      margin-bottom: 50px;
+      padding-bottom: 25px;
+      height: 130px;
+  }
+  /* formatted img to not be on the farthest left side*/
+  img{
+      margin-top: 10px;
+      padding: 35px;
+      text-align: center;
+      margin-bottom: 50px;
+      
+  }
+  /* made my unordered list margined and aligned to the left since my paragrah within my about me was centered*/ 
+  ul{
+      text-align: left;
+      color: white;
+      margin-left: 5%;
+  }
+  /* formatted my links to be more visable*/
+  ol{
+   text-align: left;
+   font-size: 125%;
+  }
+  
+  /* background photo*/
+  body {
+   background-image: url("background.jpg");
+  }
+  
+  /*footer was smaller then the rest of my text. wanted to have a different font size so it was readable and put in center of page*/
+  footer {
+      text-align:center;
+      background-color: gray;
+      padding-bottom: 4px;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+  }
+  h5{
+      padding-top: 20px;
+      color: white;
+      text-align: center;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  /* made most of my text the same size,font and color as well as center all of the text*/
+  h1, h2, h3, p{
+      color: white;
+      text-align: center;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  }
+  
