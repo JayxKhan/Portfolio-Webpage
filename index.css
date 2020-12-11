@@ -3,7 +3,7 @@ header,  main, div, footer,article,nav {
     border: 3px solid rgb(151, 136, 51);
   }
   header{
-      background-color: gray;
+      background-color: white;
   }
   a:link {
       color:black;
