@@ -1,6 +1,6 @@
 /* added border around my containers for organization*/
 header,  main, div, footer,article,nav {
-    border: 5px solid black;
+    border: 3px solid black;
   }
   header{
       background-color: gray;
@@ -71,6 +71,6 @@ header,  main, div, footer,article,nav {
   h1, h2, h3, p{
       color: white;
       text-align: center;
-      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+      font-family: Alegreya, 'Arial Narrow', Arial, sans-serif; 
   }
   
