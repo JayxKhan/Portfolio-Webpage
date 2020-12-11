@@ -3,7 +3,7 @@ header,  main, div, footer,article,nav {
     border: 3px solid rgb(151, 136, 51);
   }
   header{
-      background-color: black;
+      background-color: gray;
   }
   a:link {
       color:black;
@@ -68,7 +68,7 @@ header,  main, div, footer,article,nav {
   }
   /* made most of my text the same size,font and color as well as center all of the text*/
   h1, h2, h3, p{
-      color: white;
+      color: black;
       text-align: center;
       font-family: 'Alegreya', 'Arial Narrow', Arial, sans-serif; 
   }
