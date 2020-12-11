@@ -38,7 +38,7 @@ header,  main, div, footer,article,nav {
   }
   /* made my unordered list margined and aligned to the left since my paragrah within my about me was centered*/ 
   ul{
-      text-align: left;
+      text-align: center;
       color: black;
       margin-left: 5%;
   }
